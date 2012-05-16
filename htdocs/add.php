@@ -14,6 +14,7 @@ if (isset($_GET['logout'])) {
  * To change this template use File | Settings | File Templates.
  */
 include ('inc.php');
+вфывфывфыв
 if (isset($_SESSION['user'])) {
 
 if (isset($_POST['add'])) {
