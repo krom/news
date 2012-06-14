@@ -4,7 +4,7 @@ if (isset($_GET['logout'])) {
     unset($_SESSION['user']);
 }
 
-1
+
 //var_dump($_SESSION);
 /**
  * Created by JetBrains PhpStorm.
